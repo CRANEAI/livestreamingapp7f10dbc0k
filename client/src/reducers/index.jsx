@@ -2,7 +2,7 @@
         import { combineReducers }                      from 'redux';
         import { reducer as Form }                      from 'redux-form';
 
-        import recommendations from './reducer_recommendations' 
+        import notifications from './reducer_notifications' 
 import live from './reducer_live' 
 import "aw-r_m from './reducer_"aw-r_m' 
 import sign_up from './reducer_sign_up' 
@@ -16,7 +16,7 @@ import share from './reducer_share'
 import sign_up from './reducer_sign_up'
 
         const rootReducer = combineReducers({
-            recommendations : recommendations 
+            notifications : notifications 
 ,live : live 
 ,"aw-r_m : "aw-r_m 
 ,sign_up : sign_up 

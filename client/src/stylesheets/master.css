@@ -21,6 +21,56 @@
     }
     
     
+                    status bar-light turquoise-block {
+                        background: rgb(110, 232, 208),
+                        color: rgb(8, 34, 28)
+                    }
+                    
+                    navigation bar item-light turquoise-block {
+                        background: rgb(107, 233, 208),
+                        color: rgb(10, 34, 28)
+                    }
+                    
+                    navigation bar-light turquoise-block {
+                        background: rgb(107, 233, 208),
+                        color: rgb(10, 34, 28)
+                    }
+                    
+                    image-block-block {
+                        background: rgb(186, 158, 152),
+                        color: rgb(43, 35, 42)
+                    }
+                    
+                    label-peach-block {
+                        background: rgb(196, 164, 146),
+                        color: rgb(41, 22, 21)
+                    }
+                    
+                    label-light peach-block {
+                        background: rgb(222, 203, 182),
+                        color: rgb(57, 35, 31)
+                    }
+                    
+                    label-very light peach-block {
+                        background: rgb(195, 183, 175),
+                        color: rgb(30, 35, 59)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(191, 165, 156),
+                        color: rgb(37, 40, 38)
+                    }
+                    
+                    button-block-block {
+                        background: rgb(26, 29, 33),
+                        color: rgb(185, 162, 141)
+                    }
+                    
+                    button-block-block {
+                        background: rgb(26, 29, 33),
+                        color: rgb(185, 162, 141)
+                    }
+                    
                     status bar-block-block {
                         background: rgb(162, 162, 163),
                         color: rgb(15, 14, 15)
@@ -296,16 +346,6 @@
                         color: rgb(249, 251, 251)
                     }
                     
-                    status bar-block-light pink {
-                        background: rgb(41, 45, 41),
-                        color: rgb(207, 129, 145)
-                    }
-                    
-                    label-peach-brown {
-                        background: rgb(204, 128, 98),
-                        color: rgb(101, 55, 34)
-                    }
-                    
                     status bar-light turquoise-block {
                         background: rgb(108, 231, 207),
                         color: rgb(9, 34, 28)
@@ -336,54 +376,14 @@
                         color: rgb(20, 20, 20)
                     }
                     
-                    status bar-light turquoise-block {
-                        background: rgb(110, 232, 208),
-                        color: rgb(8, 34, 28)
+                    status bar-block-light pink {
+                        background: rgb(41, 45, 41),
+                        color: rgb(207, 129, 145)
                     }
                     
-                    navigation bar item-light turquoise-block {
-                        background: rgb(107, 233, 208),
-                        color: rgb(10, 34, 28)
-                    }
-                    
-                    navigation bar-light turquoise-block {
-                        background: rgb(107, 233, 208),
-                        color: rgb(10, 34, 28)
-                    }
-                    
-                    image-block-block {
-                        background: rgb(186, 158, 152),
-                        color: rgb(43, 35, 42)
-                    }
-                    
-                    label-peach-block {
-                        background: rgb(196, 164, 146),
-                        color: rgb(41, 22, 21)
-                    }
-                    
-                    label-light peach-block {
-                        background: rgb(222, 203, 182),
-                        color: rgb(57, 35, 31)
-                    }
-                    
-                    label-very light peach-block {
-                        background: rgb(195, 183, 175),
-                        color: rgb(30, 35, 59)
-                    }
-                    
-                    label-block-block {
-                        background: rgb(191, 165, 156),
-                        color: rgb(37, 40, 38)
-                    }
-                    
-                    button-block-block {
-                        background: rgb(26, 29, 33),
-                        color: rgb(185, 162, 141)
-                    }
-                    
-                    button-block-block {
-                        background: rgb(26, 29, 33),
-                        color: rgb(185, 162, 141)
+                    label-peach-brown {
+                        background: rgb(204, 128, 98),
+                        color: rgb(101, 55, 34)
                     }
                     
     

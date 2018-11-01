@@ -21,6 +21,206 @@
     }
     
     
+                    status bar-block-block {
+                        background: rgb(162, 162, 163),
+                        color: rgb(15, 14, 15)
+                    }
+                    
+                    navigation bar-block-block {
+                        background: rgb(165, 164, 163),
+                        color: rgb(172, 171, 172)
+                    }
+                    
+                    navigation title label-gray-gray {
+                        background: rgb(164, 164, 164),
+                        color: rgb(172, 164, 164)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(50, 44, 38),
+                        color: rgb(167, 161, 153)
+                    }
+                    
+                    Table View-block-block {
+                        background: rgb(197, 199, 196),
+                        color: rgb(41, 36, 33)
+                    }
+                    
+                    Table Row-block-block {
+                        background: rgb(48, 42, 36),
+                        color: rgb(177, 176, 175)
+                    }
+                    
+                    label-block-light peach {
+                        background: rgb(56, 55, 51),
+                        color: rgb(231, 229, 226)
+                    }
+                    
+                    label-brown-block {
+                        background: rgb(100, 60, 41),
+                        color: rgb(53, 32, 21)
+                    }
+                    
+                    Button-brown-brown {
+                        background: rgb(101, 60, 39),
+                        color: rgb(155, 103, 52)
+                    }
+                    
+                    label-light turquoise-brown {
+                        background: rgb(102, 226, 198),
+                        color: rgb(151, 101, 37)
+                    }
+                    
+                    label-block-brown {
+                        background: rgb(35, 35, 36),
+                        color: rgb(164, 122, 39)
+                    }
+                    
+                    button-light turquoise-light sky blue {
+                        background: rgb(81, 226, 193),
+                        color: rgb(236, 251, 251)
+                    }
+                    
+                    image-lavender-white {
+                        background: rgb(196, 196, 204),
+                        color: rgb(250, 250, 250)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(244, 244, 244),
+                        color: rgb(20, 20, 20)
+                    }
+                    
+                    label-block-white {
+                        background: rgb(136, 139, 139),
+                        color: rgb(251, 251, 251)
+                    }
+                    
+                    label-light sky blue-white {
+                        background: rgb(196, 200, 203),
+                        color: rgb(252, 252, 252)
+                    }
+                    
+                    label-white-block {
+                        background: rgb(252, 252, 252),
+                        color: rgb(174, 180, 183)
+                    }
+                    
+                    label-white-lavender {
+                        background: rgb(252, 252, 252),
+                        color: rgb(196, 196, 204)
+                    }
+                    
+                    label-lavender-gray {
+                        background: rgb(195, 196, 203),
+                        color: rgb(87, 90, 96)
+                    }
+                    
+                    label-light turquoise-light sky blue {
+                        background: rgb(80, 226, 194),
+                        color: rgb(229, 251, 250)
+                    }
+                    
+                    template-gray-gray {
+                        background: rgb(84, 84, 84),
+                        color: rgb(84, 84, 84)
+                    }
+                    
+                    button-light turquoise-light sky blue {
+                        background: rgb(80, 226, 194),
+                        color: rgb(229, 251, 250)
+                    }
+                    
+                    status bar-white-black {
+                        background: rgb(251, 251, 251),
+                        color: rgb(21, 21, 21)
+                    }
+                    
+                    button-white-block {
+                        background: rgb(249, 249, 249),
+                        color: rgb(42, 41, 43)
+                    }
+                    
+                    input-gray-white {
+                        background: rgb(162, 162, 162),
+                        color: rgb(251, 251, 251)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(246, 246, 246),
+                        color: rgb(58, 58, 58)
+                    }
+                    
+                    input-gray-white {
+                        background: rgb(162, 162, 162),
+                        color: rgb(251, 251, 251)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(244, 244, 244),
+                        color: rgb(54, 54, 54)
+                    }
+                    
+                    input-white-gray {
+                        background: rgb(250, 250, 250),
+                        color: rgb(165, 165, 165)
+                    }
+                    
+                    label button-black-white {
+                        background: rgb(25, 25, 25),
+                        color: rgb(247, 247, 247)
+                    }
+                    
+                    label-light turquoise-light sky blue {
+                        background: rgb(136, 213, 194),
+                        color: rgb(245, 251, 251)
+                    }
+                    
+                    status bar-light turquoise-block {
+                        background: rgb(108, 231, 207),
+                        color: rgb(8, 30, 26)
+                    }
+                    
+                    input-light turquoise-block {
+                        background: rgb(106, 232, 208),
+                        color: rgb(11, 35, 32)
+                    }
+                    
+                    Input Box-light turquoise-block {
+                        background: rgb(110, 229, 206),
+                        color: rgb(210, 248, 242)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(251, 251, 251),
+                        color: rgb(26, 26, 26)
+                    }
+                    
+                    status bar-block-block {
+                        background: rgb(163, 162, 163),
+                        color: rgb(15, 14, 15)
+                    }
+                    
+                    image-light turquoise-light sky blue {
+                        background: rgb(111, 233, 209),
+                        color: rgb(219, 248, 244)
+                    }
+                    
+                    label-block-brown {
+                        background: rgb(47, 46, 42),
+                        color: rgb(167, 133, 56)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(251, 251, 251),
+                        color: rgb(26, 26, 26)
+                    }
+                    
+                    button-white-black {
+                        background: rgb(251, 251, 251),
+                        color: rgb(26, 26, 26)
+                    }
+                    
                     status bar-block-black {
                         background: rgb(160, 160, 162),
                         color: rgb(15, 15, 15)
@@ -34,6 +234,156 @@
                     label-block-very light yellow {
                         background: rgb(34, 38, 38),
                         color: rgb(226, 217, 190)
+                    }
+                    
+                    status bar-light turquoise-block {
+                        background: rgb(107, 231, 207),
+                        color: rgb(8, 33, 28)
+                    }
+                    
+                    label-block-white {
+                        background: rgb(43, 42, 43),
+                        color: rgb(246, 246, 246)
+                    }
+                    
+                    label-white-lavender {
+                        background: rgb(251, 251, 251),
+                        color: rgb(194, 193, 196)
+                    }
+                    
+                    label-white-block {
+                        background: rgb(251, 251, 251),
+                        color: rgb(201, 200, 202)
+                    }
+                    
+                    label-white-block {
+                        background: rgb(251, 251, 251),
+                        color: rgb(196, 195, 197)
+                    }
+                    
+                    label-light pink-lavender {
+                        background: rgb(251, 250, 251),
+                        color: rgb(196, 196, 198)
+                    }
+                    
+                    label-block-white {
+                        background: rgb(45, 45, 46),
+                        color: rgb(250, 250, 250)
+                    }
+                    
+                    label-black-white {
+                        background: rgb(49, 49, 49),
+                        color: rgb(250, 250, 250)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(250, 250, 250),
+                        color: rgb(48, 48, 48)
+                    }
+                    
+                    image-white-gray {
+                        background: rgb(251, 251, 251),
+                        color: rgb(75, 75, 75)
+                    }
+                    
+                    label-white-gray {
+                        background: rgb(241, 241, 241),
+                        color: rgb(75, 75, 75)
+                    }
+                    
+                    button-light turquoise-light sky blue {
+                        background: rgb(125, 208, 191),
+                        color: rgb(249, 251, 251)
+                    }
+                    
+                    status bar-block-light pink {
+                        background: rgb(41, 45, 41),
+                        color: rgb(207, 129, 145)
+                    }
+                    
+                    label-peach-brown {
+                        background: rgb(204, 128, 98),
+                        color: rgb(101, 55, 34)
+                    }
+                    
+                    status bar-light turquoise-block {
+                        background: rgb(108, 231, 207),
+                        color: rgb(9, 34, 28)
+                    }
+                    
+                    button-light turquoise-block {
+                        background: rgb(106, 233, 208),
+                        color: rgb(9, 31, 27)
+                    }
+                    
+                    image-very light peach-block {
+                        background: rgb(213, 198, 192),
+                        color: rgb(43, 33, 32)
+                    }
+                    
+                    label-very light peach-block {
+                        background: rgb(213, 198, 192),
+                        color: rgb(43, 33, 32)
+                    }
+                    
+                    label-very light peach-block {
+                        background: rgb(205, 175, 158),
+                        color: rgb(39, 30, 29)
+                    }
+                    
+                    status bar-white-black {
+                        background: rgb(251, 251, 251),
+                        color: rgb(20, 20, 20)
+                    }
+                    
+                    status bar-light turquoise-block {
+                        background: rgb(110, 232, 208),
+                        color: rgb(8, 34, 28)
+                    }
+                    
+                    navigation bar item-light turquoise-block {
+                        background: rgb(107, 233, 208),
+                        color: rgb(10, 34, 28)
+                    }
+                    
+                    navigation bar-light turquoise-block {
+                        background: rgb(107, 233, 208),
+                        color: rgb(10, 34, 28)
+                    }
+                    
+                    image-block-block {
+                        background: rgb(186, 158, 152),
+                        color: rgb(43, 35, 42)
+                    }
+                    
+                    label-peach-block {
+                        background: rgb(196, 164, 146),
+                        color: rgb(41, 22, 21)
+                    }
+                    
+                    label-light peach-block {
+                        background: rgb(222, 203, 182),
+                        color: rgb(57, 35, 31)
+                    }
+                    
+                    label-very light peach-block {
+                        background: rgb(195, 183, 175),
+                        color: rgb(30, 35, 59)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(191, 165, 156),
+                        color: rgb(37, 40, 38)
+                    }
+                    
+                    button-block-block {
+                        background: rgb(26, 29, 33),
+                        color: rgb(185, 162, 141)
+                    }
+                    
+                    button-block-block {
+                        background: rgb(26, 29, 33),
+                        color: rgb(185, 162, 141)
                     }
                     
     

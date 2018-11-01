@@ -1,0 +1,6 @@
+
+        rootProject.name = 'Live_Streaming_App'
+
+        include ':app'
+        /* add slim_filename application modules here */
+        

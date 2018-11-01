@@ -32,7 +32,6 @@ notifications view has Label located at the bottom center of the view, text need
 notifications view has a Label located at the bottom center of the view with text ‘ id: 63283294
 notifications view has a Button located at the bottom center of the view with text follow
 view has actions which trigger on events, view should should error messages and display activity indicator when processing
-the notifications view has a close icon located at the very-top right of the view which on click will trigger the close() action
 
 */
         
@@ -157,76 +156,76 @@ import { Row, Col , Navbar, NavItem, NavbarBrand, Button } from 'reactstrap';
     <NavbarBrand>recommendations x</NavbarBrand> 
 </Navbar> 
 			<Col md={12}>
-				<p className="label-light-sky-blue-block"> h .j_°“n"_"3’3if. m </p>
+				<p className="label-light-sky-blue-block-small"> h .j_°“n"_"3’3if. m </p>
 			</Col>
 
 			<Col md={12}>
-				{/* <!-- TODO: Create unit test for follow button-light-turquoise-light-sky-blue action --> */}
+				{/* <!-- TODO: Create unit test for follow button-light-turquoise-light-sky-blue-small action --> */}
 				<Button 
-                        className="btn btn-lg btn-block button-light-turquoise-light-sky-blue" 
+                        className="btn btn-lg btn-block button-light-turquoise-light-sky-blue-small" 
                         onClick={() => this.follow()}>follow</Button> 
 
 			</Col>
 
 			<Col md={12}>
-				<p className="label-light-turquoise-light-sky-blue"> id: 34983294 w </p>
+				<p className="label-light-turquoise-light-sky-blue-paragraph"> id: 34983294 w </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> alfred hodqes </p>
+				<p className="label-white-standard-small"> alfred hodqes </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> samuel hammond </p>
+				<p className="label-white-standard-small"> samuel hammond </p>
 			</Col>
 
 			<Col md={12}>
-				{/* <!-- TODO: Create unit test for -.........._._..............._ﬁlm button-light-sky-blue-light-turquoise action --> */}
+				{/* <!-- TODO: Create unit test for -.........._._..............._ﬁlm button-light-sky-blue-light-turquoise-small action --> */}
 				<Button 
-                        className="btn btn-lg btn-block button-light-sky-blue-light-turquoise" 
+                        className="btn btn-lg btn-block button-light-sky-blue-light-turquoise-small" 
                         onClick={() => this.-.........._._..............._ﬁlm()}>-.......... . ............... ﬁlm</Button> 
 
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> carolyn francis </p>
+				<p className="label-white-standard-small"> carolyn francis </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> id: 73748319 </p>
+				<p className="label-light-pink-block-small"> id: 73748319 </p>
 			</Col>
 
 			<Col md={12} className="text-center">				{/* <!-- TODO: Change placeholder image with higher res --> */ }
 				<img className="img-fluid" alt="Responsive image" src='http://path.to/replace/image' /> 
 
 			</Col>			<Col md={12}>
-				<p className="label-white-standard"> isaiah mcgee </p>
+				<p className="label-white-standard-small"> isaiah mcgee </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> mark holmes </p>
+				<p className="label-white-standard-small"> mark holmes </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-block-white"> id: 13498384 </p>
+				<p className="label-block-white-small"> id: 13498384 </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> russell mcguire </p>
+				<p className="label-white-standard-small"> russell mcguire </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-block-lavender"> id: 63283294 </p>
+				<p className="label-lavender-lavender-small"> id: 63283294 </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-block-lavender"> 6 jonathan peters </p>
+				<p className="label-block-lavender-small"> 6 jonathan peters </p>
 			</Col>
 
 			<Col md={12}>
-				{/* <!-- TODO: Create unit test for vﬁ button-light-sky-blue-light-turquoise action --> */}
+				{/* <!-- TODO: Create unit test for vﬁ button-light-sky-blue-light-turquoise-small action --> */}
 				<Button 
-                        className="btn btn-lg btn-block button-light-sky-blue-light-turquoise" 
+                        className="btn btn-lg btn-block button-light-sky-blue-light-turquoise-small" 
                         onClick={() => this.vﬁ()}>vﬁ</Button> 
 
 			</Col>

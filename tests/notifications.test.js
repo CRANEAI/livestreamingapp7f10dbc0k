@@ -7,10 +7,10 @@
  * Live Streaming App
 */
 
-/* the notifications view has a close icon located at the very-top right of the view which on click will trigger the close() action */
-it("the notifications view has a close icon located at the very-top right of the view which on click will trigger the close() action", () => {
+/* view has actions which trigger on events, view should should error messages and display activity indicator when processing */
+it("view has actions which trigger on events, view should should error messages and display activity indicator when processing", () => {
   /* ToDo developer needs to complete unit test 
-               the notifications view has a close icon located at the very-top right of the view which on click will trigger the close() action
+               view has actions which trigger on events, view should should error messages and display activity indicator when processing
                uncomment below and update the code to test
                 //instance.action(function(error) {
                 //  if (error) throw error;

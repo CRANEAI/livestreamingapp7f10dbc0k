@@ -15,9 +15,17 @@
             //Parent Components
         //----------------------------------------------------------------------------------------------------------
         
-        import sign_up from './components/sign up.jsx'
+        import feed from './components/feed.jsx'
+import "aw-r_m from './components/"aw-r m.jsx'
+import sign_up from './components/sign up.jsx'
+import search from './components/search.jsx'
+import chat from './components/chat.jsx'
 import get_started from './components/get started.jsx'
+import edit_profile from './components/edit profile.jsx'
+import share from './components/share.jsx'
 import follow from './components/follow.jsx'
+import composite from './components/composite.jsx'
+import live from './components/live.jsx'
        
         //----------------------------------------------------------------------------------------------------------
         //Reducer
@@ -38,10 +46,18 @@ import follow from './components/follow.jsx'
         
                 <Router basename="/" history={ history } >
                     <Switch>
-                        <Route path "/" component={sign_up}
-                        <Route path="/sign_up" component={sign_up} /> 
+                        <Route path "/" component={feed}
+                        <Route path="/feed" component={feed} /> 
+,<Route path="/"aw-r_m" component={"aw-r_m} /> 
+,<Route path="/sign_up" component={sign_up} /> 
+,<Route path="/search" component={search} /> 
+,<Route path="/chat" component={chat} /> 
 ,<Route path="/get_started" component={get_started} /> 
+,<Route path="/edit_profile" component={edit_profile} /> 
+,<Route path="/share" component={share} /> 
 ,<Route path="/follow" component={follow} /> 
+,<Route path="/composite" component={composite} /> 
+,<Route path="/live" component={live} /> 
 
                     </Switch>
                 </Router>

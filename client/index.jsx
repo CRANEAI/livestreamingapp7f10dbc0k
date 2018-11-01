@@ -15,7 +15,7 @@
             //Parent Components
         //----------------------------------------------------------------------------------------------------------
         
-        import feed from './components/feed.jsx'
+        import notifications from './components/notifications.jsx'
 import "aw-r_m from './components/"aw-r m.jsx'
 import sign_up from './components/sign up.jsx'
 import search from './components/search.jsx'
@@ -46,8 +46,8 @@ import live from './components/live.jsx'
         
                 <Router basename="/" history={ history } >
                     <Switch>
-                        <Route path "/" component={feed}
-                        <Route path="/feed" component={feed} /> 
+                        <Route path "/" component={notifications}
+                        <Route path="/notifications" component={notifications} /> 
 ,<Route path="/"aw-r_m" component={"aw-r_m} /> 
 ,<Route path="/sign_up" component={sign_up} /> 
 ,<Route path="/search" component={search} /> 

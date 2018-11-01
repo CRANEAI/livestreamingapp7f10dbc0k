@@ -15,7 +15,7 @@
             //Parent Components
         //----------------------------------------------------------------------------------------------------------
         
-        import recommendations from './components/recommendations.jsx'
+        import notifications from './components/notifications.jsx'
 import live from './components/live.jsx'
 import "aw-r_m from './components/"aw-r m.jsx'
 import sign_up from './components/sign up.jsx'
@@ -47,8 +47,8 @@ import sign_up from './components/sign up.jsx'
         
                 <Router basename="/" history={ history } >
                     <Switch>
-                        <Route path "/" component={recommendations}
-                        <Route path="/recommendations" component={recommendations} /> 
+                        <Route path "/" component={notifications}
+                        <Route path="/notifications" component={notifications} /> 
 ,<Route path="/live" component={live} /> 
 ,<Route path="/"aw-r_m" component={"aw-r_m} /> 
 ,<Route path="/sign_up" component={sign_up} /> 

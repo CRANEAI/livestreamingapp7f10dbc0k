@@ -15,17 +15,18 @@
             //Parent Components
         //----------------------------------------------------------------------------------------------------------
         
-        import notifications from './components/notifications.jsx'
+        import recommendations from './components/recommendations.jsx'
+import live from './components/live.jsx'
 import "aw-r_m from './components/"aw-r m.jsx'
 import sign_up from './components/sign up.jsx'
 import search from './components/search.jsx'
 import chat from './components/chat.jsx'
 import get_started from './components/get started.jsx'
 import edit_profile from './components/edit profile.jsx'
-import share from './components/share.jsx'
 import follow from './components/follow.jsx'
 import composite from './components/composite.jsx'
-import live from './components/live.jsx'
+import share from './components/share.jsx'
+import sign_up from './components/sign up.jsx'
        
         //----------------------------------------------------------------------------------------------------------
         //Reducer
@@ -46,18 +47,19 @@ import live from './components/live.jsx'
         
                 <Router basename="/" history={ history } >
                     <Switch>
-                        <Route path "/" component={notifications}
-                        <Route path="/notifications" component={notifications} /> 
+                        <Route path "/" component={recommendations}
+                        <Route path="/recommendations" component={recommendations} /> 
+,<Route path="/live" component={live} /> 
 ,<Route path="/"aw-r_m" component={"aw-r_m} /> 
 ,<Route path="/sign_up" component={sign_up} /> 
 ,<Route path="/search" component={search} /> 
 ,<Route path="/chat" component={chat} /> 
 ,<Route path="/get_started" component={get_started} /> 
 ,<Route path="/edit_profile" component={edit_profile} /> 
-,<Route path="/share" component={share} /> 
 ,<Route path="/follow" component={follow} /> 
 ,<Route path="/composite" component={composite} /> 
-,<Route path="/live" component={live} /> 
+,<Route path="/share" component={share} /> 
+,<Route path="/sign_up" component={sign_up} /> 
 
                     </Switch>
                 </Router>

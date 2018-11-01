@@ -6,17 +6,16 @@ created by: FusionCode
 // Component Requirements
 //----------------------------------------------------------------------------------------------------------
 
-the sign up view has a status bar located at the very-top across the full width of the view
-the sign up view has a Headline Label located at the top left of the view, correct text needs defined
-sign up view has Label located at the top left of the view, text needs identified
-sign up view has Label located at the top left of the view, text needs identified
-sign up view has Label located at the top left of the view, text needs identified
-sign up view has Label located at the mid-top left of the view, text needs identified
-sign up view has Label located at the mid-top left of the view, text needs identified
-sign up view has Label located at the main area left of the view, text needs identified
-the sign up view has a Pager located at the main area left of the view, correct text needs defined
-sign up view has Label located at the bottom center of the view, text needs identified
-sign up view has Label located at the bottom center of the view, text needs identified
+the signup view has a status bar located at the very-top across the full width of the view
+the signup view has a Headline Label with text sign up located at the top left of the view
+signup view has Label located at the top left of the view, text needs identified
+signup view has Label located at the top left of the view, text needs identified
+signup view has a Label located at the top left of the view with text ryan hickman
+signup view has Label located at the mid-top left of the view, text needs identified
+signup view has a Label located at the mid-top left of the view with text ryan@ryan‘com
+signup view has Label located at the main area left of the view, text needs identified
+signup view has a Label located at the bottom center of the view with text | sign in.
+signup view has Label located at the bottom center of the view, text needs identified
 view has actions which trigger on events, view should should error messages and display activity indicator when processing
 
 */
